@@ -1361,7 +1361,7 @@ img {
                 -webkit-box-flex: 0;
                     -ms-flex: 0 0 calc(100% / 3);
                         flex: 0 0 calc(100% / 3);
-                padding: 0 1rem;
+                padding: 0 1rem 0.1rem;
 
                 display: -webkit-box;
 
@@ -1503,7 +1503,7 @@ img {
                     -webkit-box-flex: 0;
                         -ms-flex: 0 0 100%;
                             flex: 0 0 100%;
-                    padding: 0 1.6rem;
+                    padding: 0 1.6rem 0.1rem;
 
                     display: -webkit-box;
 
